@@ -1,0 +1,112 @@
+ 1931  cd /home/frank/Downloads/tibeecompare/
+ 1932  clear
+ 1933  ls
+ 1934  ./bootstrap.sh 
+ 1935  ./configure
+ 1936  sudo apt-get install libglib2.0-dev
+ 1937  ./configure
+ 1938  ./bootstrap.sh 
+ 1939  ./configure
+ 1940  make
+ 1941  nautilus
+ 1942  sudo nautilus
+ 1943  ./build-all
+ 1944  sudo apt-get install scons
+ 1945  clear
+ 1946  ./bootstrap.sh 
+ 1947  make
+ 1948  ./configure
+ 1949  ./build-all
+ 1950  clear
+ 1951  cd ..
+ 1952  git clone https://github.com/FranciscoMeloJr/trouble.git
+ 1953  cd trouble/
+ 1954  ls
+ 1955  clear
+ 1956  ls
+ 1957  cat ola.txt 
+ 1958  cd ..
+ 1959  ls
+ 1960  cd ..
+ 1961  cd Downloads/
+ 1962  ls
+ 1963  cd tibeecompare/
+ 1964  clear
+ 1965  ls
+ 1966  ./install-lttng.sh 
+ 1967  sudo ./install-lttng.sh 
+ 1968  ls
+ 1969  ./build-all-debug 
+ 1970  sudo apt-get install libgtest-dev 
+ 1971  ./build-all-debug 
+ 1972  ldconfig
+ 1973  sudo ldconfig
+ 1974  ./build-all-debug 
+ 1975  sudo apt-get install libgtest0 libgtest-dev
+ 1976  sudo apt-get install libgtest-dev 
+ 1977  cd /home/frank/Downloads/org.eclipse.tracecompass/
+ 1978  ls
+ 1979  git status
+ 1980  git add lttng/org.eclipse.tracecompass.lttng2.kernel.ui/src/org/eclipse/tracecompass/internal/lttng2/kernel/ui/frankSegmentView/SegmentHistogram.java
+ 1981  git add modified:   lttng/org.eclipse.tracecompass.lttng2.kernel.core/src/org/eclipse/tracecompass/internal/lttng2/kernel/segment/analysis/ExternalModule.java
+ 1982  git add lttng/org.eclipse.tracecompass.lttng2.kernel.core/src/org/eclipse/tracecompass/internal/lttng2/kernel/segment/analysis/ExternalModule.java
+ 1983  git add modified:   lttng/org.eclipse.tracecompass.lttng2.kernel.ui/src/org/eclipse/tracecompass/internal/lttng2/kernel/ui/frankSegmentView/FrankSegmentView.java
+ 1984  git add lttng/org.eclipse.tracecompass.lttng2.kernel.ui/src/org/eclipse/tracecompass/internal/lttng2/kernel/ui/frankSegmentView/FrankSegmentView.java
+ 1985  git commit -m "inclusion of histogram view in segment histogram and inclusion of anova in external module"
+ 1986  git push frankie 
+ 1987  git status
+ 1988  clear
+ 1989  git status
+ 1990  history
+ 1991  cd ..
+ 1992  cd tibeecompare/
+ 1993  ./bootstrap.sh 
+ 1994  ./configure
+ 1995  make
+ 1996  source setenv.sh
+ 1997  src/build/tibeebuild 
+ 1998  cd src/build
+ 1999  ls
+ 2000  cd ..
+ 2001  ls
+ 2002  cd contrib/
+ 2003  ls
+ 2004  vim build.sh 
+ 2005  history
+ 2006  ./build.sh 
+ 2007  source setenv.sh
+ 2008  cd ..
+ 2009  source setenv.sh
+ 2010  src/build/tibeebuild .
+ 2011  src/build/tibeebuild 
+ 2012  ls
+ 2013  vim build-all.s
+ 2014  vim build-all
+ 2015  cd src/
+ 2016  ls
+ 2017  cd build
+ 2018  ls
+ 2019  scons
+ 2020  cd ..
+ 2021  ls
+ 2022  cd ..
+ 2023  ls
+ 2024  scons
+ 2025  sudo apt-get install libdwarf
+ 2026  sudo apt-get install dwarfdump 
+ 2027  scons
+ 2028  sudo apt-get install libglib2.0-dev
+ 2029  sudo apt-get install libgtk2.0-dev
+ 2030  scons
+ 2031  sudo apt-get install libdwarf-dev 
+ 2032  scons
+ 2033  sudo apt-get install gelf
+ 2034  sudo apt-get install apt-file
+ 2035  sudo apt-file update
+ 2036  apt-file find gelf.h
+ 2037  sudo apt-get install libelf-dev 
+ 2038  scons
+ 2039  source setenv.sh
+ 2040  src/build/tibeebuild
+ 2041  history 
+
