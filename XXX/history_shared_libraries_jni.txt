@@ -1,0 +1,1000 @@
+ 1987  git push origin master
+ 1988  git clear
+ 1989  clear
+ 1990  ls
+ 1991  cd Documents/
+ 1992  ls
+ 1993  cd 1.tests/prot
+ 1994  cd 1.tests/
+ 1995  ls
+ 1996  cd python/prototype/
+ 1997  clear
+ 1998  ls
+ 1999  clear
+ 2000  ls
+ 2001  python anova_module.py 
+ 2002  python anova_module.py -h
+ 2003  python anova_module.py data/new_csv.csv
+ 2004  python anova_module.py -a  data/new_csv.csv
+ 2005  clear
+ 2006  python anova_module.py -a  data/new_csv.csv
+ 2007  clear
+ 2008  python anova_module.py -a  data/new_csv.csv
+ 2009  clear
+ 2010  python anova_module.py -a  data/new_csv.csv
+ 2011  clear
+ 2012  python anova_module.py -a  data/new_csv.csv
+ 2013  clear
+ 2014  python anova_module.py -a  data/new_csv.csv
+ 2015  lear
+ 2016  clear
+ 2017  lear
+ 2018  clear
+ 2019  python anova_module.py -a  data/new_csv.csv
+ 2020  clear
+ 2021  python anova_module.py -a  data/new_csv.csv
+ 2022  clear
+ 2023  python anova_module.py -a  data/new_csv.csv
+ 2024  clear
+ 2025  python anova_module.py -a  data/new_csv.csv
+ 2026  clear
+ 2027  python anova_module.py -a  data/new_csv.csv
+ 2028  clear
+ 2029  python anova_module.py -a  data/new_csv.csv
+ 2030  clear
+ 2031  python anova_module.py -a  data/new_csv.csv
+ 2032  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2033  clear
+ 2034  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2035  clear
+ 2036  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2037  clear
+ 2038  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2039  clear
+ 2040  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2041  clear
+ 2042  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2043  clear
+ 2044  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2045  clear
+ 2046  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2047  clear
+ 2048  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2049  clear
+ 2050  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2051  clear
+ 2052  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2053  clear
+ 2054  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2055  clear
+ 2056  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2057  clear
+ 2058  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2059  clear
+ 2060  python anova_module.py -a  data/new_csv.csv data/new_csv2.csv data/new_csv3.csv 
+ 2061  ls
+ 2062  cd ..
+ 2063  ls
+ 2064  cd ..
+ 2065  ls
+ 2066  cd naser_tests/
+ 2067  ls
+ 2068  ./open
+ 2069  ./fork 
+ 2070  clear
+ 2071  ls
+ 2072  vim open.c
+ 2073  ls
+ 2074  clear
+ 2075  ls
+ 2076  ./test 
+ 2077  clear
+ 2078  vim bash.sh
+ 2079  cd ..
+ 2080  ls
+ 2081  cd python/prototype
+ 2082  ls
+ 2083  cd ..
+ 2084  ls
+ 2085  ./bash
+ 2086  cd ..
+ 2087  cd .
+ 2088  cd ..
+ 2089  ls
+ 2090  cd ..
+ 2091  ls
+ 2092  cd Downloads/
+ 2093  ls
+ 2094  clear
+ 2095  ls
+ 2096  cd lttng-profile/
+ 2097  ls
+ 2098  clear
+ 2099  ls
+ 2100  clear
+ 2101  ;ls
+ 2102  ls
+ 2103  cd ..
+ 2104  cd org.eclipse.tracecompass/
+ 2105  ls
+ 2106  cd ..
+ 2107  ls
+ 2108  clear
+ 2109  ls
+ 2110  cd ..
+ 2111  ls\
+ 2112  clear
+ 2113  ls
+ 2114  cd Documents/
+ 2115  ls
+ 2116  cd 1.tests/
+ 2117  ls
+ 2118  ./ba
+ 2119  find bash.sh
+ 2120  find -a bash.sh
+ 2121  cd ..
+ 2122  find -a bash.sh
+ 2123  find bash.sh
+ 2124  cd ..
+ 2125  find bash.sh
+ 2126  cd Documents/1.tests/new/
+ 2127  ls
+ 2128  clear
+ 2129  ls
+ 2130  vim bash.sh 
+ 2131  chmod +x bash.sh 
+ 2132  ./bash.sh 
+ 2133  ./test
+ 2134  vim helloc
+ 2135  vim hello.C
+ 2136  g++ -o hello hello.C
+ 2137  vim bash.sh 
+ 2138  g++ -o hello hello.C
+ 2139  chmod +x bash.sh 
+ 2140  ./bash.sh 
+ 2141  sudo ./bash.sh 
+ 2142  lttng stop
+ 2143  lttng destroy
+ 2144  vim bash.sh 
+ 2145  vim hello.C
+ 2146  chmod +x bash.sh 
+ 2147  ./hello 
+ 2148  g++ -o hello hello.C
+ 2149  ./hello 
+ 2150  ./bash.sh 
+ 2151  vim bash.sh 
+ 2152  chmod +x bash.sh 
+ 2153  ./bash.sh 
+ 2154  vim bash.sh 
+ 2155  chmod +x bash.sh 
+ 2156  ./bash.sh 
+ 2157  cd /home/frank/lttng-traces/
+ 2158  clear
+ 2159  ls
+ 2160  ls -las
+ 2161  clear
+ 2162  ls
+ 2163  cd ..
+ 2164  ls
+ 2165  cd Documents/1.tests/python/prototype/
+ 2166  ls
+ 2167  clear
+ 2168  pwd
+ 2169  ls
+ 2170  cd data/
+ 2171  ;s
+ 2172  ls
+ 2173  cd ..
+ 2174  ls
+ 2175  cd ..
+ 2176  cd Downloads/
+ 2177  ls
+ 2178  cd org.eclipse.tracecompass/
+ 2179  clear
+ 2180  git status
+ 2181  git log
+ 2182  clear
+ 2183  git log
+ 2184  git add .
+ 2185  git commit -m "json, Isegments and tibee call"
+ 2186  git push frankie 
+ 2187  clear
+ 2188  git status
+ 2189  git log
+ 2190  git checkout 965949ed7c4cddfc272242a031e271ed82a08bb5
+ 2191  git status
+ 2192  git checkout 965949ed7c4cddfc272242a031e271ed82a08bb5
+ 2193  git checkout 1e1718058e2805c419159f5400db8f121ee9a214
+ 2194  git status
+ 2195  clear
+ 2196  git checkout master 
+ 2197  git status
+ 2198  git checkout new_branch 
+ 2199  git status
+ 2200  clear
+ 2201  git staus
+ 2202  git status
+ 2203  git lob
+ 2204  git log
+ 2205  git checkout 965949ed7c4cddfc272242a031e271ed82a08bb5
+ 2206  git status
+ 2207  cd ,,
+ 2208  cd /home/frank/workspace/Tibeecompare_java/
+ 2209  git remote add origin https://github.com/FranciscoMeloJr/tibeecompare_java.git
+ 2210  git push -u origin master
+ 2211  git remote add origin https://github.com/FranciscoMeloJr/tibeecompare_java.git
+ 2212  git start
+ 2213  git init
+ 2214  git remote add origin https://github.com/FranciscoMeloJr/tibeecompare_java.git
+ 2215  git push -u origin master
+ 2216  git commit -m 'initial commit'
+ 2217  git push origin master
+ 2218  clear
+ 2219  git status
+ 2220  git add .
+ 2221  git push
+ 2222  git push origin master
+ 2223  git status
+ 2224  git remote -v
+ 2225  git push
+ 2226  git push --set-upstream origin master
+ 2227  git config --global push.default matching
+ 2228  git config --global push.default simple
+ 2229  git push
+ 2230  git push origin master
+ 2231  cd ..
+ 2232  ls
+ 2233  cd /home/frank/Documents/
+ 2234  ls
+ 2235  cd 1.tests/
+ 2236  ls
+ 2237  cd testes/
+ 2238  ls
+ 2239  vim moo.c
+ 2240  gcc -shared -o libmoo.so moo.c 
+ 2241  ls -l
+ 2242  clear
+ 2243  ls
+ 2244  file libmoo.so 
+ 2245  vim main.c
+ 2246  gcc -o foo main.c 
+ 2247  ls
+ 2248  gcc -o foo main.c -lmoo
+ 2249  gcc -o foo main.c -L -lmoo
+ 2250  vim moo.c 
+ 2251  gcc -o foo main.c -L. -lmoo
+ 2252  ./foo 
+ 2253  echo $LD_LIBRARY_PATH
+ 2254  echo LD_LIBRARY_PATH= $LD_LIBRARY_PATH
+ 2255  echo $LD_LIBRARY_PATH
+ 2256  export $LD_LIBRARY_PATH=.
+ 2257  export LD_LIBRARY_PATH=.
+ 2258  echo $LD_LIBRARY_PATH=.
+ 2259  ./foo 
+ 2260  ldd foo 
+ 2261  git status
+ 2262  git add .
+ 2263  git commit -a
+ 2264  git push
+ 2265  git push --set-upstream origin new_branch
+ 2266  vim moo.c 
+ 2267  cd ..
+ 2268  cd ..l
+ 2269  cd ..
+ 2270  ls
+ 2271  cd ../
+ 2272  cd Downloads/
+ 2273  ls
+ 2274  cd Tibeecompare_java/
+ 2275  ls
+ 2276  gcc -fPIC -o libJNIDemo.so -shared 
+ 2277  which java
+ 2278  java -v
+ 2279  java -version
+ 2280  find java
+ 2281  gcc -fPIC -o libJNIDemo.so -shared JNIDemo.cpp
+ 2282  whereis java
+ 2283  vim message.cpp
+ 2284  gcc -shared -o libmsg.o message.cpp 
+ 2285  mv message.cpp message.c
+ 2286  gcc -shared -o libmsg.o message.c
+ 2287  vim message.c 
+ 2288  gcc -shared -o libmsg.o message.c
+ 2289  gcc -shared -o libmsg.o message.c -fPIC
+ 2290  ls
+ 2291  vim message.c 
+ 2292  gcc -shared -o libmsg.so message.cpp 
+ 2293  gcc -shared -o libmsg.so message.cpp fPIC
+ 2294  gcc -shared -o libmsg.so message.cpp -fPIC
+ 2295  ls
+ 2296  gcc -shared -o libmsg.so message.c -fPIC
+ 2297  ls
+ 2298  rm libmsg.o
+ 2299  clear
+ 2300  ls
+ 2301  cd src/
+ 2302  ls
+ 2303  cd build/
+ 2304  ls
+ 2305  cd ..
+ 2306  ls
+ 2307* gcc -shared -o .so JNIDemo.c -fPIC
+ 2308  gcc -shared -o JNIDemo.so JNIDemo.cpp -fPIC
+ 2309  whereis java
+ 2310  cd /usr/bin/
+ 2311  ls
+ 2312  clear
+ 2313  ls
+ 2314  cd
+ 2315  ls
+ 2316  clear
+ 2317  cd Documents/
+ 2318  ls
+ 2319  cd ..
+ 2320  cd Downloads/
+ 2321  ls
+ 2322  cd Tibeecompare_java/
+ 2323  clear
+ 2324  ls
+ 2325  cd src/
+ 2326  ls
+ 2327  cd build/
+ 2328  ls
+ 2329  mv libmsg.so /home/frank/Downloads/Tibeecompare_java/
+ 2330  cd ..; cd ..
+ 2331  ls
+ 2332  vim MyMain.java
+ 2333  ls
+ 2334  clear
+ 2335  ls
+ 2336  javac MyMain.java 
+ 2337  ls
+ 2338  java MyMain 
+ 2339  vim libmsg.so
+ 2340  clear
+ 2341  l;s
+ 2342  ls
+ 2343  mkdir jni
+ 2344  mv libmsg.so jni/
+ 2345  mv message.c jni/
+ 2346  mv MyMain.java jni
+ 2347  mv MyMain.class jni/
+ 2348  ls
+ 2349* 
+ 2350  ls
+ 2351  vim message.c 
+ 2352  vim MyMain.java 
+ 2353  vim message.c 
+ 2354  gcc -shared -o libmsg.so message.c -fPIC
+ 2355  ls
+ 2356  java MyMain 
+ 2357  vim MyMain.java 
+ 2358  java MyMain 
+ 2359* 
+ 2360  javac MyMain.java 
+ 2361  java MyMain 
+ 2362  javah MyMain
+ 2363  ls
+ 2364  vim message.c
+ 2365  vim MyMain.h 
+ 2366  vim message.c
+ 2367  gcc -shared -o libmsg.so message.c -fPIC
+ 2368  vim message.c
+ 2369  gcc -shared -o libmsg.so message.c -fPIC
+ 2370  vim build.sh
+ 2371  chmod +X build.sh 
+ 2372* 
+ 2373* 
+ 2374  ./build.sh 
+ 2375  vim build.sh
+ 2376  chmod +x build.sh 
+ 2377  ./build.sh 
+ 2378  vim message.c 
+ 2379  gcc -shared -o libmsg.so message.c -fPIC
+ 2380  ./build.sh 
+ 2381  vim message.c 
+ 2382  ./build.sh 
+ 2383  java MyMain
+ 2384  vim MyMain.c
+ 2385  vim MyMain.java 
+ 2386  vim message.c 
+ 2387  chmod u+x build.sh 
+ 2388  ./build.sh 
+ 2389  java MyMain 
+ 2390  ls
+ 2391  vim build.sh 
+ 2392  chmod u+x build.sh 
+ 2393  ./build.sh 
+ 2394  java MyMain
+ 2395  vim MyMain.
+ 2396  vim MyMain.java 
+ 2397  vim message.c 
+ 2398  clear
+ 2399  vim MyMain.java 
+ 2400  vim message.c 
+ 2401  vim MyMain.java 
+ 2402  vim message.c 
+ 2403  ./build.sh 
+ 2404  javac MyMain.java 
+ 2405  vim MyMain.java 
+ 2406  javac MyMain.java 
+ 2407  vim MyMain.java 
+ 2408  javac MyMain.java 
+ 2409  ./build.sh 
+ 2410  javah MyMain
+ 2411  vim MyMain.h
+ 2412  vim message.c 
+ 2413  ./build.sh 
+ 2414  vim message.c 
+ 2415  ./build.sh 
+ 2416  vim message.c 
+ 2417  ./build.sh 
+ 2418  java MyMain 
+ 2419  vim message.c 
+ 2420  vim hello.c
+ 2421  vim message.c 
+ 2422  vim hello.c
+ 2423  gcc -shared -o libhello.so hello.c 
+ 2424  gcc -shared -o libhello.so hello.c -fPIC
+ 2425  ls
+ 2426  rm a.out 
+ 2427  vim message.c 
+ 2428  ./build.sh 
+ 2429  gcc -shared -o libmsg.so message.c -fPIC
+ 2430  ls
+ 2431  vim build.sh 
+ 2432  ./build.sh 
+ 2433  vim message.c 
+ 2434  ./build.sh 
+ 2435  java MyMain 
+ 2436  vim MyMain.java 
+ 2437  vim message.c 
+ 2438  ./build.sh 
+ 2439  javah MyMain.java 
+ 2440  vim MyMain.java 
+ 2441  javac  MyMain.java 
+ 2442  vim MyMain.java 
+ 2443  javac  MyMain.java 
+ 2444  javah  MyMain.java 
+ 2445  javac  MyMain.java 
+ 2446  javah  MyMain.java 
+ 2447  ls
+ 2448  rm MyMain.h
+ 2449  javah  MyMain.java 
+ 2450  ls
+ 2451  rm MyMain.class 
+ 2452  javac MyMain.java 
+ 2453  java MyMain.java 
+ 2454  java MyMain
+ 2455  javah MyMain
+ 2456  ls
+ 2457  ./build.sh 
+ 2458  java MyMain 
+ 2459  java MyMain 1 2
+ 2460  java MyMain 1 2 4
+ 2461  java MyMain 1 44564
+ 2462  java MyMain 
+ 2463  java MyMain 1
+ 2464  java MyMain 1 2
+ 2465  vim MyMain.
+ 2466  vim MyMain.ja
+ 2467  vim MyMain.java 
+ 2468  cd ..
+ 2469  ls
+ 2470  cd tibeecompare/
+ 2471  ls
+ 2472  cd src/
+ 2473  ls
+ 2474  cd build
+ 2475  ls
+ 2476  ls -las
+ 2477  ./tibeebuild 
+ 2478  cd ..
+ 2479  cd Tibeecompare_java/
+ 2480  ls
+ 2481  cd jni/
+ 2482  cd ..
+ 2483  rm JNIDemo.
+ 2484  rm JNIDemo.cpp
+ 2485  rm JNIDemo.cpp~ 
+ 2486  rm JNIDemo.h
+ 2487  ls
+ 2488  cd jni/
+ 2489  ls
+ 2490  vim READ.txt
+ 2491  cd /home/frank/Downloads/tibeecompare/
+ 2492  objdump -T *.so 
+ 2493  ls 
+ 2494  cd src
+ 2495  objdump -T *.so 
+ 2496  nm -D
+ 2497  ls
+ 2498  nm -D libtibeecomparelib.so 
+ 2499  clear
+ 2500  cd build
+ 2501  ls
+ 2502  nm -D tibeebuild 
+ 2503  cd ..
+ 2504  ls
+ 2505  nm -D libtibeecomparelib.so 
+ 2506  readelf -a libtibeecomparelib.so 
+ 2507  clear
+ 2508  readelf -a libtibeecomparelib.so 
+ 2509  ls -las
+ 2510  readelf -a libtibeecomparelib.so 
+ 2511  clear
+ 2512  nm libtibeecomparelib.so | grep ' T '
+ 2513  ls
+ 2514  cp -a libtibeecomparelib.so* /usr/local/lib
+ 2515  sudo cp -a libtibeecomparelib.so* /usr/local/lib
+ 2516  chown chown root:root /usr/local/lib/libtibeecomparelib.so*
+ 2517  chown root:root /usr/local/lib/libtibeecomparelib.so*
+ 2518  sudo chown root:root /usr/local/lib/libtibeecomparelib.so*
+ 2519  ldconfig
+ 2520  sudo ldconfig
+ 2521  #include<foo.h> // note that foo.h is now a standard header
+ 2522  int main(void){
+ 2523  vim teste.c
+ 2524  objdump -T libtibeecomparelib.so 
+ 2525  clear
+ 2526  history
+ 2527  clear
+ 2528  ls
+ 2529  cd ..
+ 2530  ls
+ 2531  cd ..
+ 2532  cd org.eclipse.tracecompass/
+ 2533  ls
+ 2534  git status
+ 2535  git add .
+ 2536  git commit -m "adjusts in external module for json and histogram"
+ 2537  git push frankie 
+ 2538  git status
+ 2539  ./eclipse
+ 2540  eclipse
+ 2541  git status
+ 2542  git checkout -a
+ 2543  git checkout -all
+ 2544  git checkout --all
+ 2545  git checkout -- 
+ 2546  git status
+ 2547  git checkout -- all
+ 2548  git checkout -- 
+ 2549  clear
+ 2550  git status
+ 2551  git checkout doc/org.eclipse.tracecompass.examples/src/org/eclipse/tracecompass/examples/ui/views/histogram/NewHistogramView.java
+ 2552  git checkout lttng/org.eclipse.tracecompass.lttng2.kernel.ui/META-INF/MANIFEST.MF
+ 2553  git checkout  lttng/org.eclipse.tracecompass.lttng2.kernel.ui/plugin.xml
+ 2554  git checkout lttng/org.eclipse.tracecompass.lttng2.kernel.ui/src/org/eclipse/tracecompass/internal/lttng2/kernel/ui/frankSegmentView/FrankSegmentView.java
+ 2555  git status
+ 2556  git add .
+ 2557  git commit "Second view for histogram"
+ 2558  git commit -m "Second view for histogram"
+ 2559  git push frankie 
+ 2560  git status
+ 2561  clear
+ 2562  cd 
+ 2563  cd /home/frank/Downloads/tibeecompare/
+ 2564  ls
+ 2565  cd contrib
+ 2566  ls
+ 2567  cd ..
+ 2568  ls
+ 2569  cd 
+ 2570  cd /home/frank/Downloads/tibeecompare/src/
+ 2571  cd ..
+ 2572  cd XXX/
+ 2573  ls
+ 2574  g++ main.cpp player.cpp
+ 2575  vim player.cpp
+ 2576  vim player.h
+ 2577  g++ main.cpp player.cpp
+ 2578  vim player.
+ 2579  vim player.cpp
+ 2580  vim volume.h
+ 2581  vim volume.cpp
+ 2582  vim main.cpp
+ 2583  g++ main.cpp volue.cpp
+ 2584  g++ main.cpp volume.cpp
+ 2585  vim main.cpp
+ 2586  g++ main.cpp volume.cpp
+ 2587  vim volume.cpp
+ 2588  g++ main.cpp volume.cpp
+ 2589  vim volume.cpp 
+ 2590  vim main.cpp
+ 2591  vim volume.h
+ 2592  g++ main.cpp volume.cpp
+ 2593  vim main.cpp
+ 2594  g++ main.cpp volume.cpp
+ 2595  vim volume.cpp 
+ 2596  g++ main.cpp volume.cpp
+ 2597  vim volume.h
+ 2598  g++ main.cpp volume.cpp
+ 2599  vim main.cpp
+ 2600  g++ main.cpp volume.cpp
+ 2601  g++ volume.cpp main.cpp
+ 2602  vim main.cpp
+ 2603  vim volume.cpp 
+ 2604  vim volume.h 
+ 2605  g++ volume.cpp main.cpp
+ 2606  ./a.out 
+ 2607  clear
+ 2608  rm a.out 
+ 2609  g++ volume.cpp main.cpp -o test_volume
+ 2610  ./test_volume 
+ 2611  clear
+ 2612  tree 
+ 2613  vim wrapper.java
+ 2614  vim wrapper.java 
+ 2615  javac wrapper.java 
+ 2616  mv wrapper.java Wrapper.java
+ 2617  javac wrapper.java 
+ 2618  javac -jni wrapper.java 
+ 2619  javac Wrapper.java 
+ 2620  javah -jni Wrapper.java 
+ 2621  javah -jni Wrapper
+ 2622  vim Wrapper.h
+ 2623  vim handler.h
+ 2624  vim Wrapper.h
+ 2625  vim handler.h
+ 2626  vim handler.cpp
+ 2627  vim Wrapper.h
+ 2628  vim handler.cpp
+ 2629  tree
+ 2630  ls
+ 2631  vim MyMain.java
+ 2632  vim printmessage.c
+ 2633  gcc -shared -i libprtmsg.so printmessage.c 
+ 2634  gcc -shared -o libprtmsg.so printmessage.c 
+ 2635  gcc -shared -o libprtmsg.so printmessage.c -fPIC
+ 2636  ls
+ 2637  vim readme.txt
+ 2638  vim MyMain.java 
+ 2639  javac MyMain.java 
+ 2640  javah MyMain.
+ 2641  javah MyMain
+ 2642  vim MyMain.h
+ 2643  vim printmessage.c 
+ 2644  gcc -shared -o libprtmsg.so printmessage.c -fPIC
+ 2645  cd ..
+ 2646  ls
+ 2647  cd Tibeecompare_java/
+ 2648  ls
+ 2649  cd jni/
+ 2650  ls
+ 2651  cp build.sh /home/frank/Downloads/tibeecompare/
+ 2652  cd /home/frank/Downloads/tibeecompare/
+ 2653  ls
+ 2654  mv build.sh XXX/
+ 2655  ls
+ 2656  cd XXX/
+ 2657  ls
+ 2658  clear
+ 2659  tree
+ 2660  ./build.sh 
+ 2661  vim build.sh 
+ 2662  ./build.sh 
+ 2663  vim build.sh 
+ 2664  ls
+ 2665  vim build.sh 
+ 2666  ./build.sh 
+ 2667  vim build.sh 
+ 2668  ./build.sh 
+ 2669  chmod +x build.sh 
+ 2670  ./build.sh 
+ 2671  vim build.sh 
+ 2672  vim printmessage.c 
+ 2673* 
+ 2674  vim printmessage.c 
+ 2675  ./build.sh 
+ 2676  vim printmessage.c 
+ 2677  ./build.sh 
+ 2678  vim printmessage.c 
+ 2679  ./build.sh 
+ 2680  java MyMain 
+ 2681  vim printmessage.c 
+ 2682  ./build.sh 
+ 2683  vim build.sh 
+ 2684  ./build.sh 
+ 2685  tree
+ 2686  vim printmessage.c 
+ 2687  ./build.sh 
+ 2688  vim printmessage.c 
+ 2689  ./build.sh 
+ 2690  vim printmessage.c 
+ 2691  ./build.sh 
+ 2692  vim printmessage.c 
+ 2693  ./build.sh 
+ 2694  tree
+ 2695  java MyMain 
+ 2696  tree
+ 2697  vim volume.h
+ 2698  cp volume.cpp volume.c
+ 2699  vim volume.cpp 
+ 2700  vim volume.c
+ 2701  ./build.sh 
+ 2702  vim build.sh 
+ 2703  chmod +X build.sh 
+ 2704  vim build.sh 
+ 2705  ./build.sh 
+ 2706  java MyMain 
+ 2707  ls
+ 2708  vim MyMain.java
+ 2709  ls
+ 2710  clear
+ 2711  tree
+ 2712  g++ -g -c -Wall -fPIC volume.h volume.cpp
+ 2713  ls
+ 2714  g++ -shared -o libvolume.so volume.o
+ 2715  ls
+ 2716  vim MyMain.java
+ 2717  mv libprtmsg.so JNILayer.so
+ 2718  ls
+ 2719  java MyMain 
+ 2720  mv JNILayer.so libJNILayer.so
+ 2721  java MyMain 
+ 2722  clear
+ 2723  ls
+ 2724  ./build.sh 
+ 2725  ls
+ 2726  vim build.sh 
+ 2727  chmod +x build.sh 
+ 2728  ./build.sh 
+ 2729  rm libprtmsg.so 
+ 2730  ls
+ 2731  java MyMain 
+ 2732  rm libJNILayer.so 
+ 2733  ./build.sh 
+ 2734  ls
+ 2735  java MyMain 
+ 2736  javac MyMain.java 
+ 2737  java MyMain 
+ 2738  vim build.sh 
+ 2739  mv printmessage.c libJNILayer.c
+ 2740  vim libJNILayer.c 
+ 2741  ls
+ 2742  vim libJNILayer.c 
+ 2743  javac MyMain.java 
+ 2744  javah MyMain
+ 2745  vim MyMain.h
+ 2746  java MyMain 
+ 2747  vim libJNILayer.c 
+ 2748  vim MyMain.
+ 2749  vim MyMain.java
+ 2750  javac MyMain.java 
+ 2751  vim MyMain.java
+ 2752  javac MyMain.java 
+ 2753  vim MyMain.java
+ 2754  javac MyMain.java 
+ 2755  java MyMain 
+ 2756  mv libJNILayer.c JNILayer.c
+ 2757  vim JNILayer.c 
+ 2758  javah MyMain 
+ 2759  vim MyMain.h
+ 2760  vim JNILayer.c 
+ 2761  vim build.sh 
+ 2762  chmod +x build.sh 
+ 2763  ./build.sh 
+ 2764  vim JNILayer.c 
+ 2765  ./build.sh 
+ 2766  vim JNILayer.c 
+ 2767  ./build.sh 
+ 2768  java MyMain 
+ 2769  java MyMain 2 3 6
+ 2770  vim JNILayer.c 
+ 2771  ./build.sh 
+ 2772  java MyMain 2 3 6
+ 2773  vim JNILayer.c 
+ 2774  ./build.sh 
+ 2775  java MyMain 2 3 6
+ 2776  java MyMain 
+ 2777  vim MyMain.java 
+ 2778  javac MyMain.java 
+ 2779  java MyMain 2 3 6
+ 2780  java MyMain -v 2 3 6
+ 2781  java MyMain v 2 3 6
+ 2782  vim MyMain.java 
+ 2783  javac MyMain.java 
+ 2784  java MyMain 
+ 2785  java MyMain -v
+ 2786  java MyMain v 2 3 6
+ 2787  java MyMain -v 2 3 6
+ 2788  vim MyMain.java 
+ 2789  javac MyMain.java 
+ 2790  java MyMain 
+ 2791  java MyMain v
+ 2792  java MyMain v 2 5 6
+ 2793  vim MyMain.java 
+ 2794  javac MyMain.java 
+ 2795  vim MyMain.java 
+ 2796  javac MyMain.java 
+ 2797  vim MyMain.java 
+ 2798  javac MyMain.java 
+ 2799  java MyMain v 2 5 6
+ 2800  java MyMain v 
+ 2801  java MyMain v 2 5 6
+ 2802  javac MyMain.java 
+ 2803  vim MyMain.java 
+ 2804  javac MyMain.java 
+ 2805  java MyMain v 2 5 6
+ 2806  tree
+ 2807  mv MyMain.java MyTestLayer.java
+ 2808  mv MyMain.class MyTestLayer.class
+ 2809  clear
+ 2810  ls
+ 2811  tree
+ 2812  java MyTestLayer 
+ 2813  vim MyTestLayer.java 
+ 2814  java MyTestLayer 
+ 2815  vim MyTestLayer.java 
+ 2816  javac MyTestLayer.java 
+ 2817  vim MyTestLayer.java 
+ 2818  javac MyTestLayer.java 
+ 2819  java MyTestLayer 
+ 2820  java MyTestLayer v
+ 2821  java MyTestLayer v 2 5 6
+ 2822  javah My
+ 2823  rm MyMain.h 
+ 2824  javah MyTestLayer.
+ 2825  javah MyTestLayer
+ 2826  vim MyTestLayer.
+ 2827  vim MyTestLayer.java
+ 2828  vim MyTestLayer.h
+ 2829  vim JNILayer.c 
+ 2830  ./build.sh 
+ 2831  vim JNILayer.c 
+ 2832  ./build.sh 
+ 2833  java MyTestLayer v 2 5 6
+ 2834  cd ..
+ 2835  ls
+ 2836  tree
+ 2837  clear
+ 2838  ls
+ 2839  vim SConstruct 
+ 2840  git status
+ 2841  git add .
+ 2842  git commit "jni calling a layer"
+ 2843  git commit -m "jni calling a layer"
+ 2844  git push frank 
+ 2845  git status
+ 2846  clear
+ 2847  ls
+ 2848  cd XXX/
+ 2849  ls
+ 2850  vim MyTestLayer.java
+ 2851  vim JNILayer.c 
+ 2852  vim using_shared.c
+ 2853  gcc -o using_shared.c shared_test
+ 2854  gcc -o shared_test using_shared.c 
+ 2855  ls
+ 2856  ./shared_test 
+ 2857  ./shared_test 1 2 3
+ 2858  vim using_shared.c
+ 2859  vim volume.c
+ 2860  vim using_shared.c
+ 2861  gcc -L using_shared.c -o shared_test 
+ 2862  gcc -L using_shared.c -o shared_test -volume.so
+ 2863  gcc -L using_shared.c -o shared_test -libvolume.so
+ 2864  gcc -L using_shared.c -o shared_test -libvolume
+ 2865  vim lpr_print.c
+ 2866  gcc -c -fpic lpr_print.c
+ 2867  gcc -shared -o liblprprint.so lpr_print.o
+ 2868  vim liblprprint.h
+ 2869  vim printer.c
+ 2870  gcc -I../include -L../lib -o printer printer.c -llprprint
+ 2871  pwd
+ 2872  gcc -I../ -L/home/frank/Downloads/tibeecompare/XXX -o printer printer.c -llprprint
+ 2873  gcc -I/home/frank/Downloads/tibeecompare/XXX -L/home/frank/Downloads/tibeecompare/XXX -o printer printer.c -llprprint
+ 2874  ./printer 
+ 2875  vim printer.c
+ 2876  vim volume.c
+ 2877  gcc -I/home/frank/Downloads/tibeecompare/XXX -L/home/frank/Downloads/tibeecompare/XXX -o volume volume.c -llprprint
+ 2878  vim volume.c
+ 2879  gcc -I/home/frank/Downloads/tibeecompare/XXX -L/home/frank/Downloads/tibeecompare/XXX -o volume volume.c -llprprint
+ 2880  vim volume.c
+ 2881  gcc -I/home/frank/Downloads/tibeecompare/XXX -L/home/frank/Downloads/tibeecompare/XXX -o volume volume.c -llprprint
+ 2882  vim volume.c
+ 2883  gcc -I/home/frank/Downloads/tibeecompare/XXX -L/home/frank/Downloads/tibeecompare/XXX -o volume volume.c -llprprint
+ 2884  ls
+ 2885  vim printer
+ 2886  vim printer.c
+ 2887  vim main.cpp
+ 2888  vim JNILayer.c 
+ 2889  vim volume.c
+ 2890  gcc -I/home/frank/Downloads/tibeecompare/XXX -L/home/frank/Downloads/tibeecompare/XXX -o volume volume.c -llprprint
+ 2891  vim volume.c
+ 2892  gcc -I/home/frank/Downloads/tibeecompare/XXX -L/home/frank/Downloads/tibeecompare/XXX -o volume volume.c -llprprint
+ 2893  vim volume.c
+ 2894* gcc -I/home/frank/Downloads/tibeecompare/XXX -L/home/frank/Downloads/tibeecompare/XXX -o volume volume.c -llprprint gcc -c -Wall -Werror -fpic foo.c
+ 2895  vim volume.h
+ 2896  clear
+ 2897  history
+ 2898  vim JNILayer.c 
+ 2899  ls
+ 2900* 
+ 2901  gcc -L using_shared.c -o shared_test -libvolume
+ 2902* gcc -L using_shared.c -o shared_test -libvolume.so -liblprprin
+ 2903  gcc -c -Wall -Werror -fPIC volume.c -llprprint 
+ 2904  gcc -c -Wall -Werror -fPIC -llprprint volume.c
+ 2905  vim JNILayer.c 
+ 2906  vim printer.c
+ 2907* 
+ 2908  vim build.sh 
+ 2909  chmod +x build.sh 
+ 2910  ./build.sh 
+ 2911  vim build.sh 
+ 2912  pwd
+ 2913  vim build.sh 
+ 2914  ls
+ 2915  vim build.sh 
+ 2916  chmod +x build.sh 
+ 2917  ./build.sh 
+ 2918  chmod +x build.sh 
+ 2919  ./build.sh 
+ 2920  vim printer.c
+ 2921  ./build.sh clear
+ 2922  clear
+ 2923  vim build.sh 
+ 2924  chmod +x build.sh 
+ 2925* 
+ 2926  vim build.sh 
+ 2927  chmod +x build.sh 
+ 2928  ./build.sh 
+ 2929  vim build.sh 
+ 2930  vim JNILayer.c 
+ 2931  java MyTestLayer 
+ 2932  java MyTestLayer v 1 2 3
+ 2933  vim build.sh 
+ 2934  ls
+ 2935  vim build.sh 
+ 2936  chmod +x build.sh 
+ 2937  ./build.sh 
+ 2938  vim build.sh 
+ 2939  pwd
+ 2940  vim build.sh 
+ 2941  chmod +x build.sh 
+ 2942  ./build.sh 
+ 2943  ls
+ 2944  vim volume.c
+ 2945  vim build.sh 
+ 2946  vim JNILayer.c
+ 2947  vim build.sh 
+ 2948  chmod +x build.sh 
+ 2949  ./build.sh 
+ 2950  vim build.sh 
+ 2951  ls
+ 2952  vim build.sh 
+ 2953  pwd
+ 2954  vim build.sh 
+ 2955  vim JNILayer.c 
+ 2956  vim build.sh 
+ 2957  chmod +x build.sh 
+ 2958  ./build.sh 
+ 2959  vim volume.c
+ 2960  ./build.sh 
+ 2961  ls
+ 2962  vim volume.h
+ 2963  vim JNILayer.c 
+ 2964  clear
+ 2965  vim build.sh 
+ 2966  chmod +x build.sh 
+ 2967  ./build.sh 
+ 2968  vim printer.c
+ 2969  vim JNILayer.c 
+ 2970  vim printer.c
+ 2971  vim JNILayer.c ]
+ 2972  ls
+ 2973  ls -las
+ 2974  vim JNILayer.c 
+ 2975  ./build.sh 
+ 2976  vim JNILayer.c 
+ 2977  java MyTestLayer 
+ 2978  vim JNILayer.c 
+ 2979  java MyTestLayer v  5 6 7
+ 2980  clear
+ 2981  vim JNILayer.c 
+ 2982  ./build.sh 
+ 2983  ls -las
+ 2984  java MyTestLayer 
+ 2985  java MyTestLayer v 5 4 6
+ 2986  history >> history_shared_libraries_jni.txt

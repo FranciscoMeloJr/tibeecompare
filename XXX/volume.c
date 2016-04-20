@@ -3,6 +3,9 @@
 double CalculateVolume(double depth, double width, double length)
 {
 	return depth*width*length;
+
 }
-
-
+void print(char* x)
+{
+	lpr_print (x);			
+}
