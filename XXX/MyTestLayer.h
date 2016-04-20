@@ -9,11 +9,19 @@ extern "C" {
 #endif
 /*
  * Class:     MyTestLayer
+ * Method:    volume
+ * Signature: (DDD)D
+ */
+JNIEXPORT jdouble JNICALL Java_MyTestLayer_volume
+  (JNIEnv *, jobject, jdouble, jdouble, jdouble);
+
+/*
+ * Class:     MyTestLayer
  * Method:    printmsg
- * Signature: (DDD)V
+ * Signature: ([C)V
  */
 JNIEXPORT void JNICALL Java_MyTestLayer_printmsg
-  (JNIEnv *, jobject, jdouble, jdouble, jdouble);
+  (JNIEnv *, jobject, jcharArray);
 
 #ifdef __cplusplus
 }
